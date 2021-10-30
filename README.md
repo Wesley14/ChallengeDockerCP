@@ -1,4 +1,4 @@
-# ChallengeDockerCP
+# ChallengeDockerCP Proyecto esta en Master
 Después de clonar el proyecto correr los siguientes comandos:
 
 1.-$ docker-compose build 
