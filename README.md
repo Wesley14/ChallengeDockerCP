@@ -1,8 +1,8 @@
 # ChallengeDockerCP
 Después de clonar el proyecto correr los siguientes comandos:
 
-1.-$ docker-compose build # trae y configura las imagenes
-2.-$ docker-compose up -d # enciende los containers y la red
+1.-$ docker-compose build 
+2.-$ docker-compose up -d 
 3.-$ docker-compose exec php composer install --ignore-platform-reqs
 4.-$ docker-compose exec php php artisan key:generate
 5.-$ docker-compose exec php php artisan config:clear
